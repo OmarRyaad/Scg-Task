@@ -1,11 +1,6 @@
-import { Badge } from "../../../components/UI/Badge";
-import { Button } from "../../../components/ui/button";
-import {
-  Card,
-  CardContent,
-  CardFooter,
-  CardHeader,
-} from "../../../components/UI/Card";
+import { Badge } from "/components/UI/Badge";
+import { Button } from "/components/ui/button";
+import { Card, CardContent, CardFooter, CardHeader } from "/components/UI/Card";
 
 export const CallToActionSection = () => {
   const packages = [
