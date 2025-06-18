@@ -1,4 +1,4 @@
-import { Card, CardContent } from "/components/UI/Card";
+import { Card, CardContent } from "../../../components/UI/Card";
 
 export const ServiceSection = () => {
   // Service cards data
