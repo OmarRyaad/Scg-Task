@@ -1,5 +1,5 @@
 import { Badge } from "../../../components/UI/Badge";
-import { Button } from "/components/ui/button";
+import { Button } from "../../../components/ui/button";
 import {
   Card,
   CardContent,
